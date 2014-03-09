@@ -1,6 +1,6 @@
-#Implementation of Japanese morphological analyzer
+Implementation of Japanese morphological analyzer
 
-##Implementation Schedule
+Implementation Schedule
 
 - double array
 - word lattices
@@ -10,6 +10,6 @@
 - corpus crawler
 
 
-##説明
+説明
 NLP勉強の一貫としてのんびりまったり日本語の形態素解析を実装したい。
 標準ライブラリには一切頼らない予定。
